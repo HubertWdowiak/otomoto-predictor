@@ -13,3 +13,5 @@ android part:
   
 Best predictors, that I managed to prepare, were created within data-science part, using tree based algorithms from sklearn library.
 Unfortunately, due to a technical barrier, I did not succed to apply such a model in the mobile-project. That's why trained pytorch model is just a dummy nn.
+
+![alt text](https://github.com/HubertWdowiak/otomoto-predictor/blob/main/otomoto.jpg)
